@@ -1,3 +1,12 @@
 { 
-    "PORT":3000
+    "PORT":3000,
+    "Errors" : {
+        "EmptyRequest" : "Empty Request Receive",
+        "EmptyResponse" : "Response String is Empty",
+        "ProductQuantityError" : "There's an error in fethcing product quantity",
+        "ProductUnknown" : "Unkown product",
+        "UnableToHandleIntent" : "There was a problem in handling the Intent resolution, check logs for more info",
+        "GracefulDegradation" : "There was a problem in fetching the details, please try again later",
+        "UnableToConstructResponse" : "Unable to construct response"
+    }
 }

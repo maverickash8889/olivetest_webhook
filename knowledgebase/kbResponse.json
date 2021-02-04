@@ -1,0 +1,8 @@
+{
+    "responseConstruct" : {
+        "Starting" : "Thanks, We have ", 
+        "Filler" : "in stock at our ", 
+        "Ending" : "store, Was there anything else I can help you with ?",
+        "WhiteSpace" : "&nbsp"
+    }
+}
